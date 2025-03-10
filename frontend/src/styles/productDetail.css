@@ -1,0 +1,18 @@
+.product-detail {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.product-detail img {
+    width: 300px;
+    border-radius: 5px;
+}
+
+.product-info {
+    flex: 1;
+}
+
+.product-info h1 {
+    font-size: 24px;
+}
